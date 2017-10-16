@@ -1,1 +1,7 @@
-document.addEventListener("DOMContentLoad")
+let recbtn: HTMLInputElement;
+document.addEventListener('DOMContentLoad', () => {
+
+//get the inputs for function//
+
+});
+

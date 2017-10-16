@@ -1,0 +1,48 @@
+
+body { 
+    background-image: url('bg1.jpg') ;
+
+}
+
+.sidebox1{
+    background-color: mediumslateblue;
+    color: white ;
+    width:250px;
+    display: inline-block;
+    position: relative;
+    margin-left: 25em;
+    margin-top: 4em;
+}
+
+ .middlebox{
+     height: 600px;
+     width: 600px;
+     background-color: mediumseagreen;   
+     margin-bottom: 0%;
+     display: inline-block;
+     vertical-align: top;
+     margin-top: 4em;
+ }
+  
+ .rightbox {
+    
+    width: 250px;
+    background-color: mediumslateblue; 
+    display:inline-block;
+    vertical-align: top;
+    height: 600px;
+    margin-top: 3.2em;
+    font-size: 20px;
+    
+}
+ h3{
+     color: white;
+     
+
+ }
+
+ h1 {
+     align-content: center;
+     color: white;
+     text-align: center;
+ }
